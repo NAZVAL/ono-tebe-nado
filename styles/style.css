@@ -177,7 +177,7 @@ body {
   width: 100%;
   gap: 25px;
   align-content: center;
-  padding: 27px 24px 30px;
+  padding: 27px 48px 30px;
 }
 .lots__card-list-item {
   display: flex;
