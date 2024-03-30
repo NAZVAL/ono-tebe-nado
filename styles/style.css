@@ -158,7 +158,7 @@ body {
   background-color: transparent;
 }
 .lots {
-  padding-bottom: 185px;
+  padding-bottom: 181px;
   padding-top: 180px;
 }
 .lots__heading {
@@ -196,7 +196,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  padding: 51px 40px 44px;
+  padding: 51px 40px 48px;
   position: relative;
   height: 100%;
   background-repeat: no-repeat;
@@ -225,9 +225,9 @@ body {
 }
 .card__text {
   font-family: "Raleway", "Arial", sans-serif;
+  font-weight: normal;
   font-size: 20px;
-  font-weight: 400;
-  line-height: 24px;
+  line-height: 120%;
   align-items: flex-end;
   color: #fff;
   position: relative;
